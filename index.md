@@ -29,4 +29,4 @@
 * [NeoOwO](https://osu.gatari.pw/u/21227) (aka lexiPixelix (Discord), [NeoPixel201 (Bancho)](https://osu.ppy.sh/u/12139352)) - reffing / casting / streaming
 * Halevoi (aka [TheAleboy (Bancho)](https://osu.ppy.sh/users/8921554)) - pooling
 * Y0shiiii (not an osu! player) - design
-
+* You? We're still looking for Staff so feel free to apply! To do so, please message me on Discord.
