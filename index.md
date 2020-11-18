@@ -31,4 +31,4 @@
 * Y0shiiii (not an osu! player) - design
 * You? We're still looking for Staff so feel free to apply! To do so, please message me on Discord.
 
-![Badge Image](https://cdn.discordapp.com/attachments/778415488341508107/778599620766990346/Badge_01_Y__2x.png)
+![Badge Image](https://cdn.discordapp.com/attachments/778415488341508107/778600057317359616/Badge_01_Y__2x.png)
