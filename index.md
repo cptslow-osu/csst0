@@ -1,4 +1,4 @@
-## Welcome to CptSlow's Gatari Speed Tournament
+CptSlow's Gatari Speed Tournament
 
 ### Links
 
@@ -9,10 +9,10 @@
 
 
 ### Host
-CptSlow (aka Speedisgon, Acclaiming)
+[CptSlow](https://osu.gatari.pw/u/15118) (aka Acclaiming (Discord), [Speedisgon (Bancho)](https://osu.ppy.sh/users/8978079))
 
 ### Staff
-* NeoPixel201 (aka lexiPixelix, NeoOwO) - reffing / casting / streaming
-* Halevoi (aka TheAleboy) - pooling
+* [NeoOwO](https://osu.gatari.pw/u/21227) (aka lexiPixelix (Discord), [NeoPixel201 (Bancho)](https://osu.ppy.sh/u/12139352)) - reffing / casting / streaming
+* Halevoi (aka [TheAleboy (Bancho)](https://osu.ppy.sh/users/8921554)) - pooling
 * Y0shiiii (not an osu! player) - design
 
