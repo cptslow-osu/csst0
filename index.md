@@ -12,7 +12,7 @@
 * Open Qualifiers (Split into 5.5* and 6.5* Quali Division)
 * Players will be manually split into Divisions by Staff (on Bancho this would be handled by BWS). We may ask you to play a different pool previously to gauge your skill. Trying to cheat us (by sandbagging when we ask you to play) will get you disqualified.
 * Badge? Still waiting for requirements from Firedigger
-* Check the GDoc for more details.
+* Check the GDoc for pool formatting and more.
 
 ### Links
 
