@@ -1,4 +1,4 @@
-CptSlow's Gatari Speed Tournament
+# CptSlow's Gatari Speed Tournament
 
 ### Links
 
