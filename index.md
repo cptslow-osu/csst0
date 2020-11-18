@@ -10,9 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [Signup Form](https://forms.gle/ZCBjkhfvRuWNueMw6)
 [Main Sheet]()
 ```
+```markdown
 ### Host
 CptSlow (aka Speedisgon, Acclaiming)
 
 ### Staff
-NeoPixel201 (aka lexiPixelix, NeoOwO)
-Halevoi (aka TheAleboy)
+NeoPixel201 (aka lexiPixelix, NeoOwO) - reffing / casting / streaming
+Halevoi (aka TheAleboy) - pooling
+Y0shiiii (not osu player lol) - design
+```
