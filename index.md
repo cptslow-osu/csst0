@@ -19,7 +19,7 @@
 * [Discord](https://discord.com/invite/w5dPA395VV)
 * [GDoc](https://docs.google.com/document/d/1DBqowAno1Bh422qk0ypA3yyoRlM5CK_cW9gCq-22ees/edit?usp=sharing/)
 * [Signup Form](https://forms.gle/ZCBjkhfvRuWNueMw6/)
-* [Main Sheet]()
+* [Main Sheet](https://docs.google.com/spreadsheets/d/1EZrq58lOVhUo4JA5IXPf2RRlqdwBVa7cR1BwiRj_deg/edit?usp=sharing)
 
 
 ### Host
